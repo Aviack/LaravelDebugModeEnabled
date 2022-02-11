@@ -1,0 +1,7 @@
+argparse
+os
+json
+time
+colorama
+shodan
+pyfiglet
