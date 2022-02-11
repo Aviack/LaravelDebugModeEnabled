@@ -49,6 +49,6 @@ You could also add Regular expression for SectetKey -[a-zA-Z0-9\/\=]{40} in the 
 <h1>Installation</h1>
  
     Clone the repository to your machine. git clone https://github.com/Aviack/LaravelDebugModeEnabled.git
-    cd DjangoBango
+    cd LaravelDebugModeEnabled
     Install required modules by running the code pip install -r requirements.txt
     READY!
