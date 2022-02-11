@@ -40,12 +40,11 @@ domain list should be in specific format --> www.google.com[Invalid] || google[v
   
   
 <h1>OUTPUT</h1>
-You will get two files with the name domainIpFile.txt [maps Ip with the domain name]
-second is Finalresponse which is the final output which contains server response which may contain redis cache uri or mongoDB URI 
-You will get above two file in same directory you provide as argument
-you could also add Regular expression for AWSAccessKey -- > A[SK]IA\w{16}
-you could also add Regular expression for SectetKey -[a-zA-Z0-9\/\=]{40} in the source code for further finding
-
+<p>You will get two files with the name domainIpFile.txt [maps Ip with the domain name]
+second is Finalresponse which is the final output which contains server response which may contain redis cache uri or mongoDB URI.
+You will get above two file in same directory you provide as argument.
+You could also add Regular expression for AWSAccessKey -- > A[SK]IA\w{16}
+You could also add Regular expression for SectetKey -[a-zA-Z0-9\/\=]{40} in the source code for further finding</p>
   
 <h1>Installation</h1>
  
